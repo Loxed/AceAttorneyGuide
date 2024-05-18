@@ -1,6 +1,11 @@
 # The Great Ace Attorney: Adventures
 
-![Logo](../../img/tgaa1.jpg)
+<!-- ![Logo](../../img/tgaa1.jpg) -->
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40vh;" src="../../img/tgaa1.jpg" alt="Image"/>
 
 - [Episode 1: The Adventure of the Great Departure](https://strategywiki.org/wiki/The_Great_Ace_Attorney:_Adventures/Episode_1:_The_Adventure_of_the_Great_Departure)
     - [Trial, Part 1](https://strategywiki.org/wiki/The_Great_Ace_Attorney:_Adventures/Episode_1:_The_Adventure_of_the_Great_Departure/Trial,_Part_1)

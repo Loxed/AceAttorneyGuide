@@ -1,6 +1,11 @@
 # The Great Ace Attorney 2: Resolve
 
-![Logo](../../img/tgaa2.jpg)
+<!-- ![Logo](../../img/tgaa2.jpg) -->
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40vh;" src="../../img/tgaa2.jpg" alt="Image"/>
 
 - [Episode 1: The Adventure of the Blossoming Attorney](https://strategywiki.org/wiki/The_Great_Ace_Attorney_2:_Resolve/Episode_1:_The_Adventure_of_the_Blossoming_Attorney)
     - [Trial, Part 1](https://strategywiki.org/wiki/The_Great_Ace_Attorney_2:_Resolve/Episode_1:_The_Adventure_of_the_Blossoming_Attorney/Trial,_Part_1)

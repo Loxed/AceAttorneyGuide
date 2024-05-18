@@ -1,6 +1,11 @@
 # Gyakuten Kenji 2
 
-![Logo](../../img/aai2.jpg)
+<!-- ![Logo](../../img/aai2.jpg) -->
+
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;" src="../../img/aai2.jpg" alt="Image"/>
 
 - [Episode 1: Turnabout Target](https://strategywiki.org/wiki/Gyakuten_Kenji_2/Episode_1:_Turnabout_Target)
     - [Beginning](https://strategywiki.org/wiki/Gyakuten_Kenji_2/Episode_1:_Turnabout_Target/Beginning)
