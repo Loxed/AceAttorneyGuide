@@ -1,0 +1,6 @@
+[book]
+authors = ["Loxed"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ace Attorney Guide"
